@@ -129,9 +129,9 @@
                 <tbody>
                     <h3>Classroom</h3>
                     <tr>
-                        <th><img src="https://informatics.wu.ac.th/wp-content/uploads/78101202_2845655115459012_5550960147330760704_o.jpg" class="img-fluid" width="350" height="230"></th>
-                        <th><img src="https://informatics.wu.ac.th/wp-content/uploads/78281245_2845655352125655_3941487991435821056_o.jpg" class="img-fluid" width="350" height="230"></th>
-                        <th><img src="https://informatics.wu.ac.th/wp-content/uploads/77221796_2845642748793582_4654110047519899648_o.jpg" class="img-fluid" width="350" height="230"></th>
+                        <th><img src="77221796_2845642748793582_4654110047519899648_o.jpg" class="img-fluid" width="350" height="230"></th>
+                        <th><img src="78101202_2845655115459012_5550960147330760704_o.jpg" class="img-fluid" width="350" height="230"></th>
+                        <th><img src="78281245_2845655352125655_3941487991435821056_o.jpg" class="img-fluid" width="350" height="230"></th>
                      </tr>
     
                 </tbody>
